@@ -1,0 +1,86 @@
+﻿@model Ecommerce.Web.Models.MercadoriaViewModel
+
+
+@{
+    ViewBag.Title = "Delete";
+    ViewBag.Controller = "Mercadoria";
+}
+
+<div class="ibox float-e-margins">
+    <div class="ibox-title">
+        <h5>Mercadoria - Delete</h5>
+        <div class="ibox-tools">
+            <a class="collapse-link">
+                <i class="fa fa-chevron-up"></i>
+            </a>
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                <i class="fa fa-wrench"></i>
+            </a>
+
+            <a class="close-link">
+                <i class="fa fa-times"></i>
+            </a>
+        </div>
+    </div>
+    <div class="ibox-content">
+
+
+
+        <h3>Voce tem certeza que deseja deletar este registro?</h3>
+        <div>
+   
+            <hr />
+            <table class="table table-bordered">
+                <tr>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.NomeMercadoria)
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.Quantidade)
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.Preco)
+                    </th>
+                    <th class="text-center">
+                        @Html.DisplayNameFor(model => model.TipoNegocio)
+                    </th>
+  
+                </tr>
+
+
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem.NomeMercadoria)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem.Quantidade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem.Preco)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem.TipoNegocio)
+                    </td>
+
+                </tr>
+
+    
+
+            </table>
+
+            @using (Html.BeginForm())
+            {
+
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.Id)
+                <div class="form-actions no-color">
+                    <input type="submit" value="Delete" class="btn btn-primary" /> |
+                    <a href="@Url.Action("Index","Mercadoria")" class="btn btn-primary">Back to List</a>
+                </div>
+            }
+        </div>
+
+    </div>
+</div>
+
+

@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\Ecommerce.core.dll.config
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\Ecommerce.core.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\Ecommerce.core.pdb
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\obj\Release\Ecommerce.Core.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\obj\Release\Ecommerce.core.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.core\obj\Release\Ecommerce.core.pdb

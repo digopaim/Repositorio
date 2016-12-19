@@ -1,0 +1,36 @@
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll.config
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.pdb
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.core.dll
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.core.pdb
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.dll
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.pdb
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll.config
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.pdb
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.core.dll
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.dll
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.core.pdb
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.xml
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.csprojResolveAssemblyReference.cache
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.dll
+C:\Users\rukas\Desktop\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.pdb
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll.config
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.Data.pdb
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.core.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\Ecommerce.core.pdb
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\obj\Debug\Ecommerce.Data.pdb

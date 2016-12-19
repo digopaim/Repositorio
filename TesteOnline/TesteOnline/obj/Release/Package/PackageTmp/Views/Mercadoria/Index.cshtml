@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Ecommerce.Web.Models.MercadoriaViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    ViewBag.Controller = "Mercadoria";
+}
+
+
+<div class="ibox float-e-margins">
+    <div class="ibox-title">
+        <h5>Mercadoria - List</h5>
+        <div class="ibox-tools">
+            <a class="collapse-link">
+                <i class="fa fa-chevron-up"></i>
+            </a>
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                <i class="fa fa-wrench"></i>
+            </a>
+
+            <a class="close-link">
+                <i class="fa fa-times"></i>
+            </a>
+        </div>
+    </div>
+    <div class="ibox-content">
+
+        <p class="pull-left">
+            <a href="@Url.Action("Create", "Mercadoria")" class="btn btn-primary">Create New</a>
+        </p>
+
+        <table class="table">
+            <tr>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.NomeMercadoria)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.Quantidade)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.Preco)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.TipoNegocio)
+                </th>
+                <th class="text-center"></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NomeMercadoria)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantidade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Preco)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoNegocio)
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Delete", "Mercadoria", new {id = item.Id})" class="btn btn-primary">Delete</a>
+                        <a href="@Url.Action("Edit", "Mercadoria", new {id = item.Id})" class="btn btn-primary">Edit</a>
+                        <a href="@Url.Action("Details", "Mercadoria", new {id = item.Id})" class="btn btn-primary">Details</a>
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+
+
+
+
+    </div>
+</div>
+
+
+

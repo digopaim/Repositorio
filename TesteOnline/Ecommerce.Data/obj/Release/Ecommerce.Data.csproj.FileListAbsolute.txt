@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\Ecommerce.Data.dll.config
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\Ecommerce.Data.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\Ecommerce.Data.pdb
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\Ecommerce.core.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\Ecommerce.core.pdb
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\obj\Release\Ecommerce.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\obj\Release\Ecommerce.Data.dll
+C:\Users\Rodrigo\Desktop\dev\TesteOnline\Ecommerce.Data\obj\Release\Ecommerce.Data.pdb
